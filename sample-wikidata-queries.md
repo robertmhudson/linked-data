@@ -51,7 +51,7 @@ SELECT DISTINCT ?person ?personLabel ?personImage WHERE {
 ### Birthplaces of people named Johann (or replace this name with whatever you want!)
 ```
 #Birthplaces of people named Johann
-#Can change name in query builder (change object valeu of wdt:P735 - wd:Q11122389 is Johann)
+#Can change name in query builder (change object value of wdt:P735 - wd:Q11122389 is Johann)
 #added before 2016-10
 # Coordinates of the birth places of people named Johann
 #defaultView:Map
